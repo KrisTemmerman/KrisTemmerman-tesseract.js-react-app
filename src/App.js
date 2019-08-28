@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import Tesseract from 'tesseract.js';
-import fortis from './Frame3.png';
 
 const App = () => {
   const [uploads, setUploads] = React.useState([]);
